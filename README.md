@@ -1,6 +1,6 @@
 # Home page
 ---
-- [] I feel good
+- [ ] I feel good
 
 | | | |
 |-|-|-|
